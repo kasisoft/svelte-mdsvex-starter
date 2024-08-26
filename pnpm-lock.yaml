@@ -21,8 +21,8 @@ importers:
         specifier: 4.0.0-next.6
         version: 4.0.0-next.6(svelte@5.0.0-next.236)(vite@5.4.2)
       '@types/eslint':
-        specifier: ^8.56.11
-        version: 8.56.11
+        specifier: ^8.56.12
+        version: 8.56.12
       '@typescript-eslint/eslint-plugin':
         specifier: ^7.18.0
         version: 7.18.0(@typescript-eslint/parser@7.18.0(eslint@8.57.0)(typescript@5.5.4))(eslint@8.57.0)(typescript@5.5.4)
@@ -54,8 +54,8 @@ importers:
         specifier: ^3.8.6
         version: 3.8.6(postcss-load-config@3.1.4(postcss@8.4.41))(postcss@8.4.41)(svelte@5.0.0-next.236)
       tslib:
-        specifier: ^2.6.3
-        version: 2.6.3
+        specifier: ^2.7.0
+        version: 2.7.0
       typescript:
         specifier: ^5.5.4
         version: 5.5.4
@@ -389,8 +389,8 @@ packages:
   '@types/cookie@0.6.0':
     resolution: {integrity: sha512-4Kh9a6B2bQciAhf7FSuMRRkUWecJgJu9nPnx3yzpsfXX/c50REIqpHY4C82bXP90qrLtXtkDxTZosYO3UpOwlA==}
 
-  '@types/eslint@8.56.11':
-    resolution: {integrity: sha512-sVBpJMf7UPo/wGecYOpk2aQya2VUGeHhe38WG7/mN5FufNSubf5VT9Uh9Uyp8/eLJpu1/tuhJ/qTo4mhSB4V4Q==}
+  '@types/eslint@8.56.12':
+    resolution: {integrity: sha512-03ruubjWyOHlmljCVoxSuNDdmfZDzsrrz0P2LeJsOXr+ZwFQ+0yQIwNCwt/GYhV7Z31fgtXJTAEs+FYlEL851g==}
 
   '@types/estree@1.0.5':
     resolution: {integrity: sha512-/kYRxGDLWzHOB7q+wtSUQlFrtcdUccpfy+X+9iMBpHK8QLLhx2wIPYuS5DYtR9Wa/YlZAbIovy7qVdB1Aq6Lyw==}
@@ -1283,8 +1283,8 @@ packages:
     peerDependencies:
       typescript: '>=4.2.0'
 
-  tslib@2.6.3:
-    resolution: {integrity: sha512-xNvxJEOUiWPGhUuUdQgAJPKOOJfGnIyKySOc09XkKsgdUV/3E2zvwZYdejjmRgPCgcym1juLH3226yA7sEFJKQ==}
+  tslib@2.7.0:
+    resolution: {integrity: sha512-gLXCKdN1/j47AiHiOkJN69hJmcbGTHI0ImLmbYLHykhgeN0jVGola9yVjFgzCUklsZQMW55o+dW7IXv3RCXDzA==}
 
   type-check@0.4.0:
     resolution: {integrity: sha512-XleUoc9uwGXqjWwXaUTZAmzMcFZ5858QA2vvx1Ur5xIcixXIP+8LnFDgRplU30us6teqdlskFfu+ae4K79Ooew==}
@@ -1646,7 +1646,7 @@ snapshots:
 
   '@types/cookie@0.6.0': {}
 
-  '@types/eslint@8.56.11':
+  '@types/eslint@8.56.12':
     dependencies:
       '@types/estree': 1.0.5
       '@types/json-schema': 7.0.15
@@ -2556,7 +2556,7 @@ snapshots:
     dependencies:
       typescript: 5.5.4
 
-  tslib@2.6.3: {}
+  tslib@2.7.0: {}
 
   type-check@0.4.0:
     dependencies:
