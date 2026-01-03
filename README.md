@@ -1,5 +1,9 @@
 # svelte-mdsvex-starter
 
+> __ __
+> __AS OF 03-JAN-2026 this repository has been moved to https://codeberg.org/costamojan/svelte-mdsvex-starter.git__
+> __ __
+
 This is a starter which uses Svelte 5, Typescript and MDSVEX.
 
 
